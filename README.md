@@ -5,7 +5,7 @@
 
 <li>To run specific vm : <b>vagrant up vm_name</b></li>
 
-<li>To provision scripts: <b>vagarnt provision vm_name</b></li>
+<li>To provision scripts: <b>vagrant provision vm_name</b></li>
 <li>To check vm status: <b>Vagrant status</b></li>
 <li>To shutdown vm: <b>Vagrant halt vm_name</b></li>
 <li>To destroy all vm: <b>Vagrant destroy</b></li>
